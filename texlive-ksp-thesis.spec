@@ -1,6 +1,6 @@
 Name:		texlive-ksp-thesis
 Version:	39080
-Release:	1
+Release:	2
 Summary:	A LaTeX class for theses published with KIT Scientific Publishing
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ksp-thesis
