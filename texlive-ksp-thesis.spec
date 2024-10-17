@@ -3,7 +3,7 @@ Version:	39080
 Release:	2
 Summary:	A LaTeX class for theses published with KIT Scientific Publishing
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ksp-thesis
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ksp-thesis
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ksp-thesis.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ksp-thesis.doc.r%{version}.tar.xz
